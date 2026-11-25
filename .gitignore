@@ -1,0 +1,9 @@
+# Uncompressed DIMACS maps
+*.gr
+*.co
+
+# Python cache & local output files
+__pycache__/
+*.pyc
+output.txt
+solucion.txt
